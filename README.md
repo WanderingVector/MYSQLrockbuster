@@ -1,2 +1,2 @@
-# Rockbuster Video
+# Rockbuster Stealth Video
 Rockbuster is a fictional video rental company dataset.
